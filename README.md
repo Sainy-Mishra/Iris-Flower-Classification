@@ -22,4 +22,7 @@ Open Git Bash.
 <br>
 Change to the directory you want.
 <br>
-Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/Iris_Flower_Classification.git"
+Clone the repository by entering this command: 
+```bing
+git clone "https://github.com/Sainy-Mishra/Iris_Flower_Classification.git"
+```
